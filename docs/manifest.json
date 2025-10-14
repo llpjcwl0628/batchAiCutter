@@ -5,7 +5,7 @@
     "changelog": [
         "测试"
     ],
-    "download_url": "https://ghproxy.com/https://github.com/llpjcwl0628/batchAiCutter/releases/download/v1.1.0/main_v1.1.0.exe",
+    "download_url": "https://github.com/llpjcwl0628/batchAiCutter/releases/download/v1.1.0/main_v1.1.0.exe",
     "file_size": 479367986,
     "checksum": "6c6f7d8fc3b99cc714579a8d2130881780d0c77b9596bdf6ff1d348177ad20d5",
     "min_version": "1.0.0",
@@ -13,25 +13,26 @@
     "resources": [
         {
             "name": "music_v1.1.0.zip",
-            "url": "https://ghproxy.com/https://github.com/llpjcwl0628/batchAiCutter/releases/download/v1.1.0/music_v1.1.0.zip",
+            "url": "https://github.com/llpjcwl0628/batchAiCutter/releases/download/v1.1.0/music_v1.1.0.zip",
             "size": 19962185,
             "checksum": "633dfb862eedbfe8fd810741cb7286f469075a2a1b32f4f3593709776d01edf1",
             "type": "music"
         },
         {
             "name": "music1_v1.1.0.zip",
-            "url": "https://ghproxy.com/https://github.com/llpjcwl0628/batchAiCutter/releases/download/v1.1.0/music1_v1.1.0.zip",
+            "url": "https://github.com/llpjcwl0628/batchAiCutter/releases/download/v1.1.0/music1_v1.1.0.zip",
             "size": 40001744,
             "checksum": "d98a1aab0d69b6f6fea435b1daf73df751714e91c2d6a1c0ac0c03889b443fde",
             "type": "music1"
         },
         {
             "name": "music2_v1.1.0.zip",
-            "url": "https://ghproxy.com/https://github.com/llpjcwl0628/batchAiCutter/releases/download/v1.1.0/music2_v1.1.0.zip",
+            "url": "https://github.com/llpjcwl0628/batchAiCutter/releases/download/v1.1.0/music2_v1.1.0.zip",
             "size": 16293989,
             "checksum": "24054254e0a3acf08ec4878342018162ad5d4b84b07b31d05060f1d2a631b3da",
             "type": "music2"
         }
     ]
 }
+
 
