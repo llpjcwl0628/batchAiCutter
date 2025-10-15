@@ -4,7 +4,7 @@
     "description": "1.2.0 更新程序自动化更新功能",
     "changelog": [],
     "download_url": "http://123.162.188.146:3000/downloads/main_v1.2.0.exe",
-    "file_size": 479372413,
+    "file_size": 479372490,
     "checksum": "0c229e6cb1a91fa95a9b4333a8836de0b6f84e74fe24e4cc5e087ca6884c3228",
     "min_version": "1.0.0",
     "force_update": false,
@@ -32,5 +32,6 @@
         }
     ]
 }
+
 
 
