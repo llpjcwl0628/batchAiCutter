@@ -3,7 +3,7 @@
     "build_date": "2025-10-15T17:50:14.282720",
     "description": "1.2.0 更新程序自动化更新功能",
     "changelog": [],
-    "download_url": "https://123.162.188.146:3000/downloads/main_v1.2.0.exe",
+    "download_url": "http://123.162.188.146:3000/downloads/main_v1.2.0.exe",
     "file_size": 479372413,
     "checksum": "0c229e6cb1a91fa95a9b4333a8836de0b6f84e74fe24e4cc5e087ca6884c3228",
     "min_version": "1.0.0",
@@ -11,25 +11,26 @@
     "resources": [
         {
             "name": "music_v1.2.0.zip",
-            "url": "https://123.162.188.146:3000/resources/music_v1.2.0.zip",
+            "url": "http://123.162.188.146:3000/resources/music_v1.2.0.zip",
             "size": 19962185,
             "checksum": "dd65cbb37b354cfbed307903565d557c3662e37cecdfde24444b9645dddb77bc",
             "type": "music"
         },
         {
             "name": "music1_v1.2.0.zip",
-            "url": "https://123.162.188.146:3000/resources/music1_v1.2.0.zip",
+            "url": "http://123.162.188.146:3000/resources/music1_v1.2.0.zip",
             "size": 40001744,
             "checksum": "36b863b848207edd9a3039b2ada493d0e99db2e1a54a18246e86d6e1312fdc13",
             "type": "music1"
         },
         {
             "name": "music2_v1.2.0.zip",
-            "url": "https://123.162.188.146:3000/resources/music2_v1.2.0.zip",
+            "url": "http://123.162.188.146:3000/resources/music2_v1.2.0.zip",
             "size": 16293989,
             "checksum": "4d7abc6ea8beb8561f2a32e263a42a6ff733e4a54eb9030a0c7c1ebc0943ca88",
             "type": "music2"
         }
     ]
 }
+
 
