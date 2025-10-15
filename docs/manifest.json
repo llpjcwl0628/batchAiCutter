@@ -1,41 +1,34 @@
 {
     "version": "1.2.0",
-    "build_date": "2025-10-14T13:52:03.798748",
-    "description": "测试自动更新程序",
-    "changelog": [
-        "测试自动更新程序，是否正常使用"
-    ],
-    "download_url": "http://123.162.188.146:3000/downloads/main_v1.2.0.exe",
-    "file_size": 479367986,
-    "checksum": "6c6f7d8fc3b99cc714579a8d2130881780d0c77b9596bdf6ff1d348177ad20d5",
+    "build_date": "2025-10-15T17:50:14.282720",
+    "description": "1.2.0 更新程序自动化更新功能",
+    "changelog": [],
+    "download_url": "https://your-server.com/downloads/main_v1.2.0.exe",
+    "file_size": 479372413,
+    "checksum": "0c229e6cb1a91fa95a9b4333a8836de0b6f84e74fe24e4cc5e087ca6884c3228",
     "min_version": "1.0.0",
     "force_update": false,
     "resources": [
         {
-            "name": "music_v1.1.0.zip",
-            "url": "http://123.162.188.146:3000/resources/music_v1.2.0.zip",
+            "name": "music_v1.2.0.zip",
+            "url": "https://your-server.com/resources/music_v1.2.0.zip",
             "size": 19962185,
-            "checksum": "633dfb862eedbfe8fd810741cb7286f469075a2a1b32f4f3593709776d01edf1",
+            "checksum": "dd65cbb37b354cfbed307903565d557c3662e37cecdfde24444b9645dddb77bc",
             "type": "music"
         },
         {
-            "name": "music1_v1.1.0.zip",
-            "url": "http://123.162.188.146:3000/resources/music1_v1.2.0.zip",
+            "name": "music1_v1.2.0.zip",
+            "url": "https://your-server.com/resources/music1_v1.2.0.zip",
             "size": 40001744,
-            "checksum": "d98a1aab0d69b6f6fea435b1daf73df751714e91c2d6a1c0ac0c03889b443fde",
+            "checksum": "36b863b848207edd9a3039b2ada493d0e99db2e1a54a18246e86d6e1312fdc13",
             "type": "music1"
         },
         {
-            "name": "music2_v1.1.0.zip",
-            "url": "http://123.162.188.146:3000/resources/music2_v1.2.0.zip",
+            "name": "music2_v1.2.0.zip",
+            "url": "https://your-server.com/resources/music2_v1.2.0.zip",
             "size": 16293989,
-            "checksum": "24054254e0a3acf08ec4878342018162ad5d4b84b07b31d05060f1d2a631b3da",
+            "checksum": "4d7abc6ea8beb8561f2a32e263a42a6ff733e4a54eb9030a0c7c1ebc0943ca88",
             "type": "music2"
         }
     ]
 }
-
-
-
-
-
