@@ -1,37 +1,36 @@
 {
-    "version": "1.2.0",
-    "build_date": "2025-10-15T20:53:36.806095",
-    "description": "自动更新",
+    "version": "1.3.0",
+    "build_date": "2025-10-15T21:31:27.007094",
+    "description": "修复",
     "changelog": [
-        "自动·更新功能"
+        "修复更新完成后，任然显示版本需要更新的问题"
     ],
-    "download_url": "http://123.162.188.146:3000/downloads/main_v1.2.0.exe",
-    "file_size": 479375650,
-    "checksum": "910ad99abee2675ba7ee92b8a903d43381a32d13c422ff2dfc16c42122095513",
+    "download_url": "http://123.162.188.146:3000/downloads/main_v1.3.0.exe",
+    "file_size": 479375916,
+    "checksum": "dd69438e26f667515254bb580585137e592255afd06d6cda13008ed51059451b",
     "min_version": "1.0.0",
     "force_update": false,
     "resources": [
         {
-            "name": "music_v1.2.0.zip",
-            "url": "http://123.162.188.146:3000/resources/music_v1.2.0.zip",
+            "name": "music_v1.3.0.zip",
+            "url": "http://123.162.188.146:3000/resources/music_v1.3.0.zip",
             "size": 19962185,
-            "checksum": "dd65cbb37b354cfbed307903565d557c3662e37cecdfde24444b9645dddb77bc",
+            "checksum": "f6fb17bd21ce7ac4365992197b79161388ba6525f7a917c5982e51789dc002cc",
             "type": "music"
         },
         {
-            "name": "music1_v1.2.0.zip",
-            "url": "http://123.162.188.146:3000/resources/music1_v1.2.0.zip",
+            "name": "music1_v1.3.0.zip",
+            "url": "http://123.162.188.146:3000/resources/music1_v1.3.0.zip",
             "size": 40001744,
-            "checksum": "36b863b848207edd9a3039b2ada493d0e99db2e1a54a18246e86d6e1312fdc13",
+            "checksum": "207051c7ae46557388d624d97e81c95d72ebdff6f97a39209c2b9cf39bb5b1fa",
             "type": "music1"
         },
         {
-            "name": "music2_v1.2.0.zip",
-            "url": "http://123.162.188.146:3000/resources/music2_v1.2.0.zip",
+            "name": "music2_v1.3.0.zip",
+            "url": "http://123.162.188.146:3000/resources/music2_v1.3.0.zip",
             "size": 16293989,
-            "checksum": "4d7abc6ea8beb8561f2a32e263a42a6ff733e4a54eb9030a0c7c1ebc0943ca88",
+            "checksum": "c3cdce150d61ece8da504807d2782c6d5ba030355b387d8ad49e87c55c4a359f",
             "type": "music2"
         }
     ]
 }
-
