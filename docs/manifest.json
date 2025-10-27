@@ -1,36 +1,43 @@
 {
-    "version": "1.7.0",
-    "build_date": "2025-10-24T21:54:50.641496",
-    "description": "1.7.0",
+    "version": "1.8.0",
+    "build_date": "2025-10-27T21:27:03.528557",
+    "description": "1.8.0",
     "changelog": [
-        "更新全国视频添加的标签"
+        "更新程序新增ftp视频上传"
     ],
-    "download_url": "http://123.162.188.146:3000/downloads/main_v1.7.0.exe",
-    "file_size": 479349138,
-    "checksum": "4939c5c18bbc3efdaee560a730609f54f26e57cdd71dad0517100eaecae0e6ae",
+    "download_url": "http://123.162.188.146:3000/downloads/main_v1.8.0.exe",
+    "file_size": 479351797,
+    "checksum": "9028fb025774c763a1db721cbe287d1f86fd7bbcb360581a5af561b6d527a888",
     "min_version": "1.0.0",
     "force_update": false,
     "resources": [
         {
-            "name": "music_v1.7.0.zip",
-            "url": "http://123.162.188.146:3000/resources/music_v1.7.0.zip",
-            "size": 19962185,
-            "checksum": "27e2c78be738106b58e225fda2bea055b9be8364d602ece313bf672ff1d450da",
+            "name": "music_v1.8.0.zip",
+            "url": "http://123.162.188.146:3000/resources/music_v1.8.0.zip",
+            "size": 19962411,
+            "checksum": "49899a2ae4cdeb910e76a8619a15493e16814ad0da09d106c4e09eec4bf56f8d",
             "type": "music"
         },
         {
-            "name": "music1_v1.7.0.zip",
-            "url": "http://123.162.188.146:3000/resources/music1_v1.7.0.zip",
-            "size": 40001744,
-            "checksum": "7e98793c0fabc1da8c42c14ad2b7eb6fc8d3495ca830ac440276ab3ba681dbee",
+            "name": "music1_v1.8.0.zip",
+            "url": "http://123.162.188.146:3000/resources/music1_v1.8.0.zip",
+            "size": 40001970,
+            "checksum": "3ef757d89672d5a20a78548b02d5b4bb8e0c1388ad84a5afc7c64aa777da10ca",
             "type": "music1"
         },
         {
-            "name": "music2_v1.7.0.zip",
-            "url": "http://123.162.188.146:3000/resources/music2_v1.7.0.zip",
-            "size": 16293989,
-            "checksum": "f4892aa2edf8d3603b223546c8a5a884cbaae8545c2719e0111df880dc45f20f",
+            "name": "music2_v1.8.0.zip",
+            "url": "http://123.162.188.146:3000/resources/music2_v1.8.0.zip",
+            "size": 16294215,
+            "checksum": "814c1bc292a58278615f20300c166fb2cfdbf6dcec1822a7de98c0f1772a1b3d",
             "type": "music2"
+        },
+        {
+            "name": "ftp_config.json",
+            "url": "http://123.162.188.146:3000/downloads/ftp_config.json",
+            "size": 185,
+            "checksum": "f4a347b7f87f00433b3a0c2b92c5e78d5e97f642e9519c8915e46d7f702e3950",
+            "type": "config"
         }
     ]
 }
