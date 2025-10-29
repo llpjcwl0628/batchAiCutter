@@ -1,35 +1,37 @@
 {
-    "version": "1.8.0",
-    "build_date": "2025-10-27T21:27:03.528557",
-    "description": "1.8.0",
+    "version": "1.9.0",
+    "build_date": "2025-10-29T18:18:18.043073",
+    "description": "1.9.0",
     "changelog": [
-        "更新程序新增ftp视频上传"
+        "优化生成视频流程中可能导致视频生成卡住的问题",
+        "优化增加了介绍全国类视频标题过长时不显示为封面标题的策略",
+        "优化增加了视频生成完成后，模糊匹配查找需要发布的账号，并自动增加视频发布任务"
     ],
-    "download_url": "http://123.162.188.146:3000/downloads/main_v1.8.0.exe",
-    "file_size": 479351797,
-    "checksum": "9028fb025774c763a1db721cbe287d1f86fd7bbcb360581a5af561b6d527a888",
+    "download_url": "http://123.162.188.146:3000/downloads/main_v1.9.0.exe",
+    "file_size": 479355174,
+    "checksum": "85e4f5bb14a4279b85f8779c657a065ff9fa550cfa41de60d0dadce3762e8402",
     "min_version": "1.0.0",
     "force_update": false,
     "resources": [
         {
-            "name": "music_v1.8.0.zip",
-            "url": "http://123.162.188.146:3000/resources/music_v1.8.0.zip",
+            "name": "music_v1.9.0.zip",
+            "url": "http://123.162.188.146:3000/resources/music_v1.9.0.zip",
             "size": 19962411,
-            "checksum": "49899a2ae4cdeb910e76a8619a15493e16814ad0da09d106c4e09eec4bf56f8d",
+            "checksum": "f84b919436f014c86d2e71daae3dd74cecd8dad875d3034deedf1daafa73b96b",
             "type": "music"
         },
         {
-            "name": "music1_v1.8.0.zip",
-            "url": "http://123.162.188.146:3000/resources/music1_v1.8.0.zip",
+            "name": "music1_v1.9.0.zip",
+            "url": "http://123.162.188.146:3000/resources/music1_v1.9.0.zip",
             "size": 40001970,
-            "checksum": "3ef757d89672d5a20a78548b02d5b4bb8e0c1388ad84a5afc7c64aa777da10ca",
+            "checksum": "5b42bfc784b10f20344d1af4067a6b153f4f1aa17ec87bd27b6f97611c4c8fb6",
             "type": "music1"
         },
         {
-            "name": "music2_v1.8.0.zip",
-            "url": "http://123.162.188.146:3000/resources/music2_v1.8.0.zip",
+            "name": "music2_v1.9.0.zip",
+            "url": "http://123.162.188.146:3000/resources/music2_v1.9.0.zip",
             "size": 16294215,
-            "checksum": "814c1bc292a58278615f20300c166fb2cfdbf6dcec1822a7de98c0f1772a1b3d",
+            "checksum": "db150b3030ec4f0303e48ce8e2a736d7ca841743681125e35664146442feb2cf",
             "type": "music2"
         },
         {
