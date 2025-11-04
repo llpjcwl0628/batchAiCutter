@@ -1,34 +1,33 @@
 {
-    "version": "2.0.0",
-    "build_date": "2025-10-30T19:30:57.803927",
-    "description": "2.0.0更新",
+    "version": "2.1.0",
+    "build_date": "2025-11-04T16:02:48.869270",
+    "description": "2.1.0",
     "changelog": [
-        "再次优化了视频生成可能造成卡住的问题",
-        "优化了自动生成视频时每次取不同类型标题的功能"
+        "优化视频封面添加"
     ],
-    "download_url": "http://123.162.188.146:3000/downloads/main_v2.0.0.exe",
-    "file_size": 479355932,
-    "checksum": "b96af8890d07f04c6b1c0d5a955469a47fc26cd1be946687248ba2cc53096d39",
+    "download_url": "http://123.162.188.146:3000/downloads/main_v2.1.0.exe",
+    "file_size": 479356256,
+    "checksum": "9e2f59c0ee465d3fd1b889791a31816f11cadc39c1ceb0b9360e37ed6f897660",
     "min_version": "1.0.0",
     "force_update": false,
     "resources": [
         {
-            "name": "music_v2.0.0.zip",
-            "url": "http://123.162.188.146:3000/resources/music_v2.0.0.zip",
+            "name": "music_v2.1.0.zip",
+            "url": "http://123.162.188.146:3000/resources/music_v2.1.0.zip",
             "size": 19962411,
             "checksum": "4c7acbde1315d66b05cb4c0d5230b841b5088054904e7649191a827de4443ff6",
             "type": "music"
         },
         {
-            "name": "music1_v2.0.0.zip",
-            "url": "http://123.162.188.146:3000/resources/music1_v2.0.0.zip",
+            "name": "music1_v2.1.0.zip",
+            "url": "http://123.162.188.146:3000/resources/music1_v2.1.0.zip",
             "size": 40001970,
             "checksum": "9feba3be4ba7a418e0e0d81db42b97288d96dc8ce0fc2736fe9d540ac3392998",
             "type": "music1"
         },
         {
-            "name": "music2_v2.0.0.zip",
-            "url": "http://123.162.188.146:3000/resources/music2_v2.0.0.zip",
+            "name": "music2_v2.1.0.zip",
+            "url": "http://123.162.188.146:3000/resources/music2_v2.1.0.zip",
             "size": 16294215,
             "checksum": "d7d684504da30f843096f06505fe536e15aab9acad8a0ee99af7a6c6c7152bd9",
             "type": "music2"
