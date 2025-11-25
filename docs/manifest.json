@@ -1,36 +1,20 @@
 {
-    "version": "2.3.0",
-    "build_date": "2025-11-22T14:47:27.349697",
-    "description": "2.3.0",
-    "changelog": [
-        "更新优化了视频生成速度"
-    ],
-    "download_url": "http://123.162.188.146:3000/downloads/main_v2.3.0.exe",
-    "file_size": 479272517,
-    "checksum": "91b08c4de3fe8e782955a03d613ce0c71bfa0dc44272dca7b4c520e4006135a7",
+    "version": "2.4.0",
+    "build_date": "2025-11-25T15:22:56.215551",
+    "description": "2.4.0优化合成效率",
+    "changelog": [],
+    "download_url": "http://123.162.188.146:3000/downloads/main_v2.4.0.exe",
+    "file_size": 479278315,
+    "checksum": "19b6fbeeff5ea3d818ca882baa60e9faef0b0f4e4425b7855fcbfc2cd1bac1a2",
     "min_version": "1.0.0",
     "force_update": false,
     "resources": [
         {
-            "name": "music_v2.3.0.zip",
-            "url": "http://123.162.188.146:3000/resources/music_v2.3.0.zip",
+            "name": "music_v2.4.0.zip",
+            "url": "http://123.162.188.146:3000/resources/music_v2.4.0.zip",
             "size": 19962411,
             "checksum": "49f64a2596bb4128c5a303d19c3375a182e05017c390aaf1f3f0b10dd5da665c",
             "type": "music"
-        },
-        {
-            "name": "music1_v2.3.0.zip",
-            "url": "http://123.162.188.146:3000/resources/music1_v2.3.0.zip",
-            "size": 40001970,
-            "checksum": "27140b296ff38abc4440997f242fef0e9a4688d291696fa6274b542173747522",
-            "type": "music1"
-        },
-        {
-            "name": "music2_v2.3.0.zip",
-            "url": "http://123.162.188.146:3000/resources/music2_v2.3.0.zip",
-            "size": 16294215,
-            "checksum": "9fd4afb3e5a37eed9589c4eb807144739d2281a2e919947737612ae51ccff0ae",
-            "type": "music2"
         },
         {
             "name": "ftp_config.json",
